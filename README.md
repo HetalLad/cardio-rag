@@ -1,6 +1,8 @@
 # cardio-rag
 # Cardiology RAG Assistant
 
+🔗 **[Live demo](https://cardio-rag.streamlit.app/)** 
+
 A Retrieval-Augmented Generation pipeline built on 529 pages 
 of AHA Heart Disease and Stroke Statistics 2023 guidelines.
 
